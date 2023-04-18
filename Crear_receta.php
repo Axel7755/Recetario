@@ -1,6 +1,6 @@
 <?php
 session_start();
-//chain6
+//chain
 ?>
 <!DOCTYPE html>
 <html lang="es">
